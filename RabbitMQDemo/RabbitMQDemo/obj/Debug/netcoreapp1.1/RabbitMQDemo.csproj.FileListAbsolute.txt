@@ -1,0 +1,10 @@
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\bin\Debug\netcoreapp1.1\RabbitMQDemo.deps.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\bin\Debug\netcoreapp1.1\RabbitMQDemo.runtimeconfig.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\bin\Debug\netcoreapp1.1\RabbitMQDemo.runtimeconfig.dev.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\bin\Debug\netcoreapp1.1\RabbitMQDemo.dll
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\bin\Debug\netcoreapp1.1\RabbitMQDemo.pdb
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\obj\Debug\netcoreapp1.1\RabbitMQDemo.csproj.CoreCompileInputs.cache
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\obj\Debug\netcoreapp1.1\RabbitMQDemo.AssemblyInfo.cs
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\obj\Debug\netcoreapp1.1\RabbitMQDemo.dll
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\obj\Debug\netcoreapp1.1\RabbitMQDemo.pdb
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQDemo\obj\Debug\netcoreapp1.1\RabbitMQDemo.csprojResolveAssemblyReference.cache

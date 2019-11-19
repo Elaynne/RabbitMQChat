@@ -1,0 +1,9 @@
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\bin\Debug\netcoreapp1.1\RabbitMQServerDemo.deps.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\bin\Debug\netcoreapp1.1\RabbitMQServerDemo.runtimeconfig.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\bin\Debug\netcoreapp1.1\RabbitMQServerDemo.runtimeconfig.dev.json
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\bin\Debug\netcoreapp1.1\RabbitMQServerDemo.dll
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\obj\Debug\netcoreapp1.1\RabbitMQServerDemo.csproj.CoreCompileInputs.cache
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\obj\Debug\netcoreapp1.1\RabbitMQServerDemo.AssemblyInfo.cs
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\bin\Debug\netcoreapp1.1\RabbitMQServerDemo.pdb
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\obj\Debug\netcoreapp1.1\RabbitMQServerDemo.dll
+C:\Users\elaynne.torres\source\repos\RabbitMQDemo\RabbitMQServerDemo\obj\Debug\netcoreapp1.1\RabbitMQServerDemo.pdb
