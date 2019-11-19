@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQDemo", "RabbitMQDemo\RabbitMQDemo.csproj", "{ECE7CC15-0C01-4543-B6CC-A037396550C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQServerDemo", "RabbitMQServerDemo\RabbitMQServerDemo.csproj", "{D34A6A61-1D7C-4D78-9A1E-2B60630D0F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQServerDemo", "RabbitMQServerDemo\RabbitMQServerDemo.csproj", "{D34A6A61-1D7C-4D78-9A1E-2B60630D0F3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

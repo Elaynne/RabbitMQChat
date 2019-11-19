@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace RabbitMQDemo
 {
@@ -13,13 +14,19 @@ namespace RabbitMQDemo
 
             while (true)
             {
-                var input = Console.ReadKey();
-                if (input.Key == ConsoleKey.Q)
+                var input = Console.ReadLine();
+                var option = Console.ReadKey();
+
+                if (option.Key == ConsoleKey.Q)
                     break;
 
-                if (input.Key == ConsoleKey.Enter)
+                if (option.Key == ConsoleKey.Enter)
                 {
-                    var msg = string.Format("Message: {0}", messageCount);
+                    StringBuilder sb = new StringBuilder(string.Format("Message: {0}", messageCount));
+                    sb.Append(Environment.NewLine);
+                    sb.Append(input.ToString());
+                    var msg = sb.ToString();
+                    
                     Console.WriteLine(string.Format("Sending - {0}", msg));
                     sender.Send(msg);
                     messageCount++;
